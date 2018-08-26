@@ -1,6 +1,6 @@
 # Congressional Districts
 
-This code is used to grab the GeoJSON shape files for all of the congressional districts in the United States and write them to one directory
+This code is used to grab the GeoJSON shape files for all of the congressional districts in the United States and write them to one directory. The original locations JSON can be found at the @unitedstates project (https://theunitedstates.io/). The final joined GeoJSON can be viewed on my website @ kelseygrover.com/congressional
 
 ##
 
